@@ -13,6 +13,10 @@
 
 엔터를 또 눌렀다.
 
+```java
+public class Main{
+}
+```
 
 * 하나
 * 둘
